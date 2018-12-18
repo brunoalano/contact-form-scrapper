@@ -1,7 +1,7 @@
 <h1 style="font-weight:normal">
   Contact Form Scrapper
-  <a href="https://github.com/brunoalano/contact-form-scrapper/releases"><img src=https://img.shields.io/github/release/brunoalano/contact-form-scrapper.svg?colorB=58839b></a>
-  <a href="https://github.com/brunoalano/contact-form-scrapper/blob/master/LICENSE"><img src=https://img.shields.io/github/license/brunoalano/contact-form-scrapper.svg?colorB=ff0000></a>
+  <a href="https://github.com/brunoalano/contact-form-scrapper/releases"><img src="https://img.shields.io/github/release/brunoalano/contact-form-scrapper.svg?colorB=58839b"></a>
+  <a href="https://github.com/brunoalano/contact-form-scrapper/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-Commons%20Clause-blue.svg"></a>
 </h1>
 
 Heuristic-based contact form scrapper and submitter. Educational and research usage only!
