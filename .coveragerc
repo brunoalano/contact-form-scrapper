@@ -1,0 +1,2 @@
+[run]
+omit = scrapper/__version__.py

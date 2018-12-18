@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "contact-form-scrapper"
+version = "0.1.0"
+description = "Heuristic-based contact form scrapper and submitter. Educational and research usage only!"
+authors = ["Bruno Alano Medina <bruno@monoscope.io>"]
+license = "Commons Clause Apache 2.0"
+
+readme = "README.md"
+repository = "https://github.com/brunoalano/contact-form-scrapper"
+
+[tool.poetry.dependencies]
+python = "^3.6"
+
+[tool.poetry.dev-dependencies]
+pytest = "^3.0"
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
